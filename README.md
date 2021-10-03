@@ -1,16 +1,9 @@
-# wardus
+# WardUs
 
-A new Flutter project.
+Multi Platform mobile app for safety in the street.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+About 3 years ago, there was a big discussion about public safety in my beautiful city, as a result a Whatsapp group was created where people could call for help and share their location in real time.
+The idea came out from that group, a mobile application which will warn the nearest people with the app installed and if it’s desired call the authorities. At the same time, it’ll be able to record video and audio in case the situation escalates.
+Furthermore, the app will constantly monitor the user location and send it to a server, fully encrypted. So in case the victim loses phone coverage, the authorities will have access to the route he took.\*\*
